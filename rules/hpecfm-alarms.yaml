@@ -1,0 +1,13 @@
+---
+name: "hpecfm-alarms"
+description: "Get HPECFM alarms and load mongo databases."
+enabled: true
+
+trigger:
+  type: "core.st2.IntervalTimer"
+  parameters:
+    delta: 5
+    unit: minutes
+
+action:
+  ref: "stackstorm-dwr.get-hpecfm-alarms"

@@ -1,0 +1,10 @@
+---
+username:
+  description: "Username for the pymongo database"
+  type: "string"
+  required: true
+password:
+  description: "Password for the pymongo database"
+  type: "string"
+  secret: true
+  required: true

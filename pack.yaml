@@ -1,0 +1,16 @@
+---
+ref: stackstorm-dwr
+name: stackstorm-dwr
+description: Builds mongo database of data center appliances
+keywords:
+  - HPECFM
+  - Oneview
+  - Nimble
+  - Aruba
+  - mongo
+version: 0.1.2
+python_versions:
+  - "2"
+  - "3"
+author: Rick Kauffman
+email: chewie@wookieware.com
