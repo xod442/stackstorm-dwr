@@ -10,4 +10,4 @@ trigger:
     unit: minutes
 
 action:
-  ref: "stackstorm-dwr.get-hpecfm-alarms"
+  ref: "stackstormdwr.get-hpecfm-alarms"
