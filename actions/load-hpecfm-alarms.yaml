@@ -1,6 +1,6 @@
 ---
 name: load-hpecfm-alarms
-pack: stackstorm-dwr
+pack: stackstormdwr
 description: build mongo db of real time alarms on the cfm
 runner_type: python-script
 entry_point: load-hpecfm-alarms.py
