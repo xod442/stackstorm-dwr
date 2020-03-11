@@ -12,4 +12,4 @@ tasks:
         do: sendmongo
 
   sendmongo:
-    action: stackstorm-dwr.load-hpecfm-alarms alarms=<% ctx().alarms %>
+    action: stackstormdwr.load-hpecfm-alarms alarms=<% ctx().alarms %>
