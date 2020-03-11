@@ -1,6 +1,0 @@
----
-name: get-hpecfm-alarms
-description: A workflow for getting hpecfm alarms into a mongo database.
-runner_type: orquesta
-entry_point: workflows/get-hpecfm-alarms.yaml
-enabled: true
