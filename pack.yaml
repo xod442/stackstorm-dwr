@@ -1,6 +1,6 @@
 ---
-ref: stackstorm-dwr
-name: stackstorm-dwr
+ref: stackstormdwr
+name: stackstormdwr
 description: Builds mongo database of data center appliances
 keywords:
   - HPECFM
